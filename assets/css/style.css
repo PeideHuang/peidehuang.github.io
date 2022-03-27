@@ -262,7 +262,8 @@ section {
 
 .section-bg {
   background: #f5f8fd;
-  /*margin: 0 -9999rem;*/
+  margin: 0 -9999rem;
+  overflow-x: hidden;
 }
 
 .section-title {
