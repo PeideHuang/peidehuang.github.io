@@ -262,13 +262,12 @@ section {
 
 .section-bg {
   background: #f5f8fd;
-  margin: 0 -9999rem;
-  overflow-x: hidden;
 }
 
 .section-title {
   padding-bottom: 30px;
 }
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
@@ -277,8 +276,9 @@ section {
   position: relative;
   color: #173b6c;
 }
+
 .section-title h2::after {
-  content: "";
+  content: '';
   position: absolute;
   display: block;
   width: 50px;
@@ -287,6 +287,7 @@ section {
   bottom: 0;
   left: 0;
 }
+
 .section-title p {
   margin-bottom: 0;
 }
