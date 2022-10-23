@@ -1,0 +1,6 @@
+@article{huang2022curriculum,
+  title={Curriculum Reinforcement Learning using Optimal Transport via Gradual Domain Adaptation},
+  author={Huang, Peide and Xu, Mengdi and Zhu, Jiacheng and Shi, Laixi and Fang, Fei and Zhao, Ding},
+  journal={arXiv preprint arXiv:2210.10195},
+  year={2022}
+}
