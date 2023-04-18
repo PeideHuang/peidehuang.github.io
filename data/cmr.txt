@@ -1,0 +1,8 @@
+@misc{qiu2023multimodal,
+      title={Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging}, 
+      author={Jielin Qiu and Peide Huang and Makiya Nakashima and Jaehyun Lee and Jiacheng Zhu and Wilson Tang and Pohao Chen and Christopher Nguyen and Byung-Hak Kim and Debbie Kwon and Douglas Weber and Ding Zhao and David Chen},
+      year={2023},
+      eprint={2304.07675},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
