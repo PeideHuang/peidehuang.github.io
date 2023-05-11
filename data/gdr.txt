@@ -1,0 +1,8 @@
+@inproceedings{xu2023group,
+  title={Group Distributionally Robust Reinforcement Learning with Hierarchical Latent Variables},
+  author={Xu, Mengdi and Huang, Peide and Niu, Yaru and Kumar, Visak and Qiu, Jielin and Fang, Chao and Lee, Kuan-Hui and Qi, Xuewei and Lam, Henry and Li, Bo and others},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={2677--2703},
+  year={2023},
+  organization={PMLR}
+}
