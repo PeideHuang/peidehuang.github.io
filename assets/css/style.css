@@ -18,6 +18,18 @@ a {
   text-decoration: none;
 }
 
+author {
+  color: #000000;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+author:focus,
+author:hover {
+  color: #149ddd;
+  text-decoration: none;
+}
+
 a:hover {
   color: #37b3ed;
   text-decoration: none;

@@ -1,0 +1,6 @@
+@article{liu2022continual,
+  title={Continual Reinforcement Learning with Group Symmetries},
+  author={Liu, Shiqi and Xu, Mengdi and Huang, Piede and Liu, Yongkang and Oguchi, Kentaro and Zhao, Ding},
+  journal={arXiv preprint arXiv:2210.12301},
+  year={2022}
+}
