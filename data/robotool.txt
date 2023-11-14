@@ -1,0 +1,6 @@
+@article{xu2023creative,
+  title={Creative Robot Tool Use with Large Language Models},
+  author={Xu, Mengdi and Huang, Peide and Yu, Wenhao and Liu, Shiqi and Zhang, Xilun and Niu, Yaru and Zhang, Tingnan and Xia, Fei and Tan, Jie and Zhao, Ding},
+  journal={arXiv preprint arXiv:2310.13065},
+  year={2023}
+}
