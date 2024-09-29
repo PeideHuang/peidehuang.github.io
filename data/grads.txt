@@ -1,0 +1,8 @@
+@inproceedings{yao2024gradient,
+  title={Gradient shaping for multi-constraint safe reinforcement learning},
+  author={Yao, Yihang and Liu, Zuxin and Cen, Zhepeng and Huang, Peide and Zhang, Tingnan and Yu, Wenhao and Zhao, Ding},
+  booktitle={6th Annual Learning for Dynamics \& Control Conference},
+  pages={25--39},
+  year={2024},
+  organization={PMLR}
+}
